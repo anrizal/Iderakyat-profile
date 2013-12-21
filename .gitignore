@@ -1,0 +1,16 @@
+# web folder
+/modules/contrib
+
+.*~
+*.*~
+
+# OS or Editor folders
+.DS_Store
+Thumbs.db
+.cache
+.project
+.settings
+.tmproj
+*.esproj
+nbproject
+.idea
